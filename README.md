@@ -4,7 +4,7 @@ This pathfinder program allows you to visualize different pathfinding algorithms
 You can choose to do an A* search or Dijkstras algorithm 
 
 ## How to Run
-Run the main function which is located inside pathfinder.py
+Run pathfinder.py
 
 To begin, click on a plot to set it as the starting position. The next click will set your ending position. You can then draw any additional 
 obstacles between these two points. Right click to delete any spots.
