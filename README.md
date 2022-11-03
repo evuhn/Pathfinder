@@ -12,3 +12,5 @@ obstacles between these two points. Right click to delete any spots.
 To run A* search, press the 'a' key to begin. To run Dijkstras, press the 'd' key.
 
 Once the program is done running and a path has been found, you can press 'r' to reset the board and run it again.
+
+![](/resources/pathfinding_gif.gif)
